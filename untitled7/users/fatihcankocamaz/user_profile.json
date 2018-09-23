@@ -1,0 +1,284 @@
+{
+    "verified": false,
+    "default_profile": false,
+    "geo_enabled": false,
+    "translator_type": "none",
+    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/803514710/66374f44963c50cfd07ae5a04d0952a0.jpeg",
+    "default_profile_image": false,
+    "created_at": "Tue Sep 11 18:26:26 +0000 2012",
+    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/803514710/66374f44963c50cfd07ae5a04d0952a0.jpeg",
+    "lang": "tr",
+    "following": false,
+    "profile_background_color": "131516",
+    "notifications": false,
+    "name": "Can Kocamaz",
+    "profile_location": null,
+    "location": "T\u00fcrkiye",
+    "status": {
+        "favorite_count": 0,
+        "place": null,
+        "lang": "tr",
+        "retweet_count": 573,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "extended_entities": {
+            "media": [
+                {
+                    "source_status_id": 819816255838388224,
+                    "expanded_url": "https://twitter.com/demarkesports/status/819816255838388224/photo/1",
+                    "source_user_id": 1499266621,
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "display_url": "pic.twitter.com/0cnaj3Iulx",
+                    "source_user_id_str": "1499266621",
+                    "sizes": {
+                        "small": {
+                            "resize": "fit",
+                            "h": 318,
+                            "w": 600
+                        },
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 318,
+                            "w": 600
+                        },
+                        "large": {
+                            "resize": "fit",
+                            "h": 318,
+                            "w": 600
+                        }
+                    },
+                    "type": "photo",
+                    "id_str": "819730637582204930",
+                    "source_status_id_str": "819816255838388224",
+                    "media_url_https": "https://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                    "media_url": "http://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                    "id": 819730637582204930,
+                    "url": "https://t.co/0cnaj3Iulx"
+                }
+            ]
+        },
+        "id_str": "819827418441666560",
+        "text": "RT @demarkesports: Vefat\u0131n\u0131n 1. y\u0131l\u0131nda Sefa Kalya'y\u0131 rahmetle an\u0131yoruz. https://t.co/0cnaj3Iulx",
+        "created_at": "Fri Jan 13 08:44:22 +0000 2017",
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_status_id_str": null,
+        "retweeted": false,
+        "truncated": false,
+        "favorited": false,
+        "contributors": null,
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "media": [
+                {
+                    "source_status_id": 819816255838388224,
+                    "expanded_url": "https://twitter.com/demarkesports/status/819816255838388224/photo/1",
+                    "source_user_id": 1499266621,
+                    "indices": [
+                        73,
+                        96
+                    ],
+                    "display_url": "pic.twitter.com/0cnaj3Iulx",
+                    "source_user_id_str": "1499266621",
+                    "sizes": {
+                        "small": {
+                            "resize": "fit",
+                            "h": 318,
+                            "w": 600
+                        },
+                        "thumb": {
+                            "resize": "crop",
+                            "h": 150,
+                            "w": 150
+                        },
+                        "medium": {
+                            "resize": "fit",
+                            "h": 318,
+                            "w": 600
+                        },
+                        "large": {
+                            "resize": "fit",
+                            "h": 318,
+                            "w": 600
+                        }
+                    },
+                    "type": "photo",
+                    "id_str": "819730637582204930",
+                    "source_status_id_str": "819816255838388224",
+                    "media_url_https": "https://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                    "media_url": "http://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                    "id": 819730637582204930,
+                    "url": "https://t.co/0cnaj3Iulx"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "name": "De Marke",
+                    "screen_name": "demarkesports",
+                    "id_str": "1499266621",
+                    "indices": [
+                        3,
+                        17
+                    ],
+                    "id": 1499266621
+                }
+            ]
+        },
+        "geo": null,
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "retweeted_status": {
+            "favorited": false,
+            "place": null,
+            "text": "Vefat\u0131n\u0131n 1. y\u0131l\u0131nda Sefa Kalya'y\u0131 rahmetle an\u0131yoruz. https://t.co/0cnaj3Iulx",
+            "lang": "tr",
+            "retweet_count": 573,
+            "coordinates": null,
+            "possibly_sensitive": false,
+            "extended_entities": {
+                "media": [
+                    {
+                        "type": "photo",
+                        "id_str": "819730637582204930",
+                        "expanded_url": "https://twitter.com/demarkesports/status/819816255838388224/photo/1",
+                        "media_url_https": "https://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                        "sizes": {
+                            "small": {
+                                "resize": "fit",
+                                "h": 318,
+                                "w": 600
+                            },
+                            "thumb": {
+                                "resize": "crop",
+                                "h": 150,
+                                "w": 150
+                            },
+                            "medium": {
+                                "resize": "fit",
+                                "h": 318,
+                                "w": 600
+                            },
+                            "large": {
+                                "resize": "fit",
+                                "h": 318,
+                                "w": 600
+                            }
+                        },
+                        "display_url": "pic.twitter.com/0cnaj3Iulx",
+                        "media_url": "http://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                        "indices": [
+                            54,
+                            77
+                        ],
+                        "id": 819730637582204930,
+                        "url": "https://t.co/0cnaj3Iulx"
+                    }
+                ]
+            },
+            "id_str": "819816255838388224",
+            "favorite_count": 2716,
+            "created_at": "Fri Jan 13 08:00:01 +0000 2017",
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_status_id_str": null,
+            "retweeted": false,
+            "truncated": false,
+            "contributors": null,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "media": [
+                    {
+                        "type": "photo",
+                        "id_str": "819730637582204930",
+                        "expanded_url": "https://twitter.com/demarkesports/status/819816255838388224/photo/1",
+                        "media_url_https": "https://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                        "sizes": {
+                            "small": {
+                                "resize": "fit",
+                                "h": 318,
+                                "w": 600
+                            },
+                            "thumb": {
+                                "resize": "crop",
+                                "h": 150,
+                                "w": 150
+                            },
+                            "medium": {
+                                "resize": "fit",
+                                "h": 318,
+                                "w": 600
+                            },
+                            "large": {
+                                "resize": "fit",
+                                "h": 318,
+                                "w": 600
+                            }
+                        },
+                        "display_url": "pic.twitter.com/0cnaj3Iulx",
+                        "media_url": "http://pbs.twimg.com/media/C2BEq_iXgAIMnJM.jpg",
+                        "indices": [
+                            54,
+                            77
+                        ],
+                        "id": 819730637582204930,
+                        "url": "https://t.co/0cnaj3Iulx"
+                    }
+                ],
+                "user_mentions": []
+            },
+            "geo": null,
+            "in_reply_to_screen_name": null,
+            "in_reply_to_status_id": null,
+            "is_quote_status": false,
+            "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+            "id": 819816255838388224
+        },
+        "is_quote_status": false,
+        "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows Phone</a>",
+        "id": 819827418441666560
+    },
+    "entities": {
+        "description": {
+            "urls": []
+        }
+    },
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/817926066/1447069971",
+    "description": "",
+    "favourites_count": 213,
+    "screen_name": "FatihcanKocamaz",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/636856280972398592/zFNmyplI_normal.jpg",
+    "url": null,
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/636856280972398592/zFNmyplI_normal.jpg",
+    "time_zone": "Baghdad",
+    "listed_count": 0,
+    "friends_count": 51,
+    "profile_text_color": "333333",
+    "id_str": "817926066",
+    "followers_count": 255,
+    "profile_use_background_image": true,
+    "id": 817926066,
+    "profile_background_tile": true,
+    "is_translator": false,
+    "has_extended_profile": false,
+    "profile_link_color": "009999",
+    "statuses_count": 1333,
+    "utc_offset": 10800,
+    "is_translation_enabled": false,
+    "protected": false,
+    "contributors_enabled": false,
+    "profile_sidebar_fill_color": "EFEFEF",
+    "profile_sidebar_border_color": "000000",
+    "follow_request_sent": false
+}
